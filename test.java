@@ -15,7 +15,7 @@ class test
 				}
 				
 			}
-			testinner i=new testinner();
+			testinner i=new testinner()
 				i.m();
 				
 	}
